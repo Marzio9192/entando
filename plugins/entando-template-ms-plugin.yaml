@@ -5,3 +5,4 @@ healthCheckPath: "/actuator/health"
 roles:
   - "et-first-role"
   - "et-second-role"
+
